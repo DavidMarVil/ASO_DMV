@@ -1,3 +1,3 @@
-- [pr0501](ASO/ut05/pr0501.md)
-- [pr0502](ASO/ut05/pr0502.md)
+- [pr0501](/ut05/pr0501.md)
+- [pr0502](/ut05/pr0502.md)
 - [Volver al inicio](../index.md)
