@@ -2,4 +2,5 @@
 - [Unidad 02](./ut02/index.md)
 - [Unidad 03](./ut03/index.md)
 - [Unidad 05](./ut05/index.md)
+- [Unidad 06](./ut06/index.md)
 - [Repositorio de Github](https://github.com/DavidMarVil/ASO_DMV)
